@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Odecius
-- 👀 I’m interested in my profession
+- 👀 I’m interested in changing my profession...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project where i can develope my python skills
 - 📫 How to reach me ofsouzai@gmail.com
